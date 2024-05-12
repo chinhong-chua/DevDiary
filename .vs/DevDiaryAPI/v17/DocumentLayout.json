@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|c:\\cruz_2024\\my-blog-app\\devdiary\\devdiaryapi\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|solutionrelative:devdiaryapi\\models\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|c:\\cruz_2024\\my-blog-app\\devdiary\\devdiaryapi\\services\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|solutionrelative:devdiaryapi\\services\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|c:\\cruz_2024\\my-blog-app\\devdiary\\devdiaryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|solutionrelative:devdiaryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|c:\\cruz_2024\\my-blog-app\\devdiary\\devdiaryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|solutionrelative:devdiaryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|c:\\cruz_2024\\my-blog-app\\devdiary\\devdiaryapi\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1040F0C-1592-4D2F-B2A7-DF9AC073CD39}|DevDiaryAPI\\DevDiaryAPI.csproj|solutionrelative:devdiaryapi\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogPostService.cs",
+              "DocumentMoniker": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\Services\\BlogPostService.cs",
+              "RelativeDocumentMoniker": "DevDiaryAPI\\Services\\BlogPostService.cs",
+              "ToolTip": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\Services\\BlogPostService.cs",
+              "RelativeToolTip": "DevDiaryAPI\\Services\\BlogPostService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:06:13.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DevDiaryAPI\\Program.cs",
+              "ToolTip": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\Program.cs",
+              "RelativeToolTip": "DevDiaryAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:55:47.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DevDiaryAPI\\appsettings.json",
+              "ToolTip": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\appsettings.json",
+              "RelativeToolTip": "DevDiaryAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T15:00:43.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "DevDiaryAPI\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "DevDiaryAPI\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:56:05.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\Models\\BlogPost.cs",
+              "RelativeDocumentMoniker": "DevDiaryAPI\\Models\\BlogPost.cs",
+              "ToolTip": "C:\\Cruz_2024\\my-blog-app\\DevDiary\\DevDiaryAPI\\Models\\BlogPost.cs",
+              "RelativeToolTip": "DevDiaryAPI\\Models\\BlogPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:54:38.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
